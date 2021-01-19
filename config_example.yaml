@@ -1,0 +1,11 @@
+---
+  mqtt:
+    host: "mqtthost.example.com"
+    port: 1883
+    client_id: "irctomqttbot"
+    username:
+    password:
+
+  sites:
+    example:
+      address: "https://example.com"
